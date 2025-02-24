@@ -1,19 +1,20 @@
 class Solution {
 public:
+    #define  pa pair<int,pair<int,int>>
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
         int n=grid.size();
         int m=grid[0].size();
-        queue<pair<pair<int,int>,int>>q;
+        priority_queue<pa,vector<pa>,greater<>>q;
         health=health-grid[0][0];
-        q.push({{0,0},health});
-        grid[0][0]=-1;
+        q.push({health,{0,0}});
         int X[4]={0,0,1,-1};
         int Y[4]={-1,1,0,0};
+        vector<vector<int>>H(n,vector<int>(m,0));
         while(!q.empty())
         {
-            int x=q.front().first.first;
-            int y=q.front().first.second;
-            int z=q.front().second;
+            int x=q.top().second.first;
+            int y=q.top().second.second;
+            int z=q.top().first;
             q.pop();
             if(x==n-1 && y==m-1)
             {
@@ -23,12 +24,12 @@ public:
             {
                 int nx=x+X[i];
                 int ny=y+Y[i];
-                if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]!=-1)
+                if(nx>=0 && nx<n && ny>=0 && ny<m)
                 {
-                    if(z-grid[nx][ny]>=1)
+                    if(z-grid[nx][ny]>H[nx][ny])
                     {
-                        q.push({{nx,ny},z-grid[nx][ny]});
-                        grid[nx][ny]=-1;
+                        q.push({z-grid[nx][ny],{nx,ny}});
+                        H[nx][ny]=z-grid[nx][ny];
                     }
                 }
             }
