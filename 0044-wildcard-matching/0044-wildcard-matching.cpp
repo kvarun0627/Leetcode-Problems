@@ -41,6 +41,7 @@ public:
                 if(p[jj-1]!='*')
                 {
                     flag=false;
+                    break;
                 }
             }
             tab[0][j]=flag;
@@ -55,7 +56,7 @@ public:
                 }
                 else if(p[j-1]=='*')
                 {
-                    return tab[i][j]=tab[i][j-1]||tab[i-1][j];
+                    tab[i][j]=tab[i][j-1]||tab[i-1][j];
                 }
                 else tab[i][j]=false;
             }
@@ -66,9 +67,10 @@ public:
     bool isMatch(string s, string p) {
         int n=s.size();
         int m=p.size();
-        vector<vector<int>>memo(n,vector<int>(m,-1));
+        
         vector<vector<bool>>tab(n+1,vector<bool>(m+1,-1));
-        return DP_MEMO(s,p,n-1,m-1,memo);
         return DP_TAB(s,p,n,m,tab);
+        vector<vector<int>>memo(n,vector<int>(m,-1));
+        return DP_MEMO(s,p,n-1,m-1,memo);
     }
 };
