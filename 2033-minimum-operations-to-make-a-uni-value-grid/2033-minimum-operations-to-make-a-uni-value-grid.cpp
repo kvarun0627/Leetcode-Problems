@@ -12,7 +12,6 @@ public:
             }
         }
 
-        sort(numbers.begin(),numbers.end());
         int total_len=n*m;
         nth_element(numbers.begin(),numbers.begin()+total_len/2,numbers.end());
         int final_common_number=numbers[total_len/2];
