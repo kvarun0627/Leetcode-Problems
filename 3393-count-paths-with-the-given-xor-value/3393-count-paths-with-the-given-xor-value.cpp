@@ -16,9 +16,9 @@ public:
         }
         if(y+1<n)
         {
-            right=DP_memo(grid,k,x,y+1,val,m,n,DP)%mod;
+            right=DP_memo(grid,k,x,y+1,val,m,n,DP);
         }
-        return DP[x][y][val]=(right+down)%mod;
+        return DP[x][y][val]=right+down;
     }
     int countPathsWithXorValue(vector<vector<int>>& grid, int k) {
         int m=grid.size();
