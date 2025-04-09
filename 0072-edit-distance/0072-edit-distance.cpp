@@ -22,7 +22,37 @@ public:
         return DP[idx1][idx2]=min({del,ins,rep});
     }
     int minDistance(string word1, string word2) {
-        vector<vector<int>>DP(word1.size(),vector<int>(word2.size(),-1));
-        return reccur(word1,word2,word1.size()-1,word2.size()-1,DP);
+        int m=word1.size();
+        int n=word2.size();
+        vector<vector<int>>DP(m+1,vector<int>(n+1,0));
+        DP[0][0]=0;
+        for(int i=1;i<=n;i++)
+        {
+            DP[0][i]=i;
+        }
+        for(int j=1;j<=m;j++)
+        {
+            DP[j][0]=j;
+        }
+
+        for(int i=1;i<=m;i++)
+        {
+            for(int j=1;j<=n;j++)
+            {
+                if(word1[i-1]==word2[j-1])
+                {
+                    DP[i][j]=DP[i-1][j-1];
+                }
+                else
+                {
+                    int del=1+DP[i-1][j];
+                    int ins=1+DP[i][j-1];
+                    int rep=1+DP[i-1][j-1];
+                    DP[i][j]=min({del,ins,rep});
+                }
+            }
+        }
+
+        return DP[m][n];
     }
 };
