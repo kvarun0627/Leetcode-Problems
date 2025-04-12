@@ -4,6 +4,8 @@ public:
     {
         if(idx>=n) return 0;
 
+        if(DP[idx][cap]!=-1) return DP[idx][cap];
+
         int skip=reccur(prices,DP,cap,idx+1,n);
 
         int buy=0;
@@ -11,11 +13,12 @@ public:
         if(!cap)
         {
             buy=-prices[idx]+reccur(prices,DP,1,idx+1,n);
-            return max(buy,skip);
+            DP[idx][cap]=max(buy,skip);
         }
         sell=prices[idx]+reccur(prices,DP,0,idx+2,n);
-        return max(skip,sell);
+        DP[idx][cap]=max(skip,sell);
 
+        return DP[idx][cap];
     }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
