@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kvarun0627/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Queue
 |  |
 | ------- |
