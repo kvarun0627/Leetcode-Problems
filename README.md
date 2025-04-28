@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kvarun0627/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
