@@ -9,6 +9,7 @@ public:
     {
         return i>=0 && i<n && j>=0 && j<m;
     }
+
     int minTimeToReach(vector<vector<int>>& moveTime) {
 
         int n=moveTime.size();
@@ -19,7 +20,8 @@ public:
         pq.push({{0,0},0});
 
         vector<vector<int>>Time(n,vector<int>(m,INT_MAX));
-
+        Time[0][0]=0;
+        
         while(!pq.empty())
         {
             auto [coor,t]=pq.top();
