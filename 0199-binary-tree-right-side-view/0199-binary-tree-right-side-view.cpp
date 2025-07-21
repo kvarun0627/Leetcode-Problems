@@ -11,23 +11,25 @@
  */
 class Solution {
 public:
-    int max_depth=-1;
-    void RightVeiw(TreeNode*root,int depth,vector<int>&ans)
+    int max_height=-1;
+    void helper(TreeNode*root,int ht,vector<int>&rt)
     {
-        if(!root) return;
-
-        depth++;
-        if(depth>max_depth)
+        if(!root)
         {
-            ans.push_back(root->val);
-            max_depth=depth;
+            return ;
         }
-        RightVeiw(root->right,depth,ans);
-        RightVeiw(root->left,depth,ans);
+        if(ht>max_height)
+        {
+            rt.push_back(root->val);
+            max_height=ht;
+        }
+        helper(root->right,ht+1,rt);
+        helper(root->left,ht+1,rt);
+        return ;
     }
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>ans;
-        RightVeiw(root,-1,ans);
-        return ans;
+        vector<int>rt;
+        helper(root,0,rt);
+        return rt;
     }
 };
