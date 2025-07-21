@@ -1,43 +1,41 @@
 class Solution {
 public:
-    vector<pair<int,int>>dir={{0,1},{1,0},{0,-1},{-1,0}};
-    bool isValid(int i,int j,int m,int n)
-    {
-        return i>=0 && i<m && j>=0 && j<n;
-    }
-    void BFS(vector<vector<char>>& grid,int i,int j,int m,int n)
+    vector<pair<int,int>>dir={{0,1},{1,0},{-1,0},{0,-1}};
+    void BFS(vector<vector<char>>& grid,int x,int y,int m,int n)
     {
         queue<pair<int,int>>q;
-        grid[i][j]='0';
-        q.push({i,j});
+        q.push({x,y});
+        grid[x][y]='0';
+
         while(!q.empty())
         {
-            auto [x,y]=q.front();
+            auto [i,j]=q.front();
             q.pop();
-            for(auto d:dir)
+            for(auto [di,dj]:dir)
             {
-                int nx=x+d.first;
-                int ny=y+d.second;
-                if(isValid(nx,ny,m,n) && grid[nx][ny]=='1')
+                int ni=i+di;
+                int nj=j+dj;
+                if(ni>=0 && ni<m && nj>=0 && nj<n && grid[ni][nj]=='1')
                 {
-                    q.push({nx,ny});
-                    grid[nx][ny]='0';
+                    q.push({ni,nj});
+                    grid[ni][nj]='0';
                 }
             }
+
         }
     }
     int numIslands(vector<vector<char>>& grid) {
-        int ans=0;
         int m=grid.size();
         int n=grid[0].size();
+        int ans=0;
         for(int i=0;i<m;i++)
         {
             for(int j=0;j<n;j++)
             {
                 if(grid[i][j]=='1')
                 {
-                    BFS(grid,i,j,m,n);
                     ans++;
+                    BFS(grid,i,j,m,n);
                 }
             }
         }
