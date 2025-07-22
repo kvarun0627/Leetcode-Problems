@@ -1,6 +1,6 @@
 # 📘 LeetCode Problem Solving Journey
 
-### 🧠 Solved 400+ LeetCode Problems | 🚀 Mastering DSA One Problem at a Time
+### 🧠 Solved 700+ LeetCode Problems | 🚀 Mastering DSA One Problem at a Time
 
 Welcome to my repository where I’ve organized 400+ LeetCode solutions, written with clean and efficient code. Each problem is solved with an emphasis on understanding **core algorithms**, **problem patterns**, and **optimized approaches**.
 
