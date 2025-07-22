@@ -1,42 +1,40 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/master/0053-maximum-subarray) |
-| [2394-count-subarrays-with-score-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
-| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kvarun0627/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
-| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kvarun0627/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
-## Queue
-|  |
-| ------- |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
-## Sliding Window
-|  |
-| ------- |
-| [2394-count-subarrays-with-score-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
-| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kvarun0627/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
-## Monotonic Queue
-|  |
-| ------- |
-| [2527-count-subarrays-with-fixed-bounds](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
-## Binary Search
-|  |
-| ------- |
-| [2394-count-subarrays-with-score-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
-## Prefix Sum
-|  |
-| ------- |
-| [2394-count-subarrays-with-score-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/master/0053-maximum-subarray) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/master/0053-maximum-subarray) |
-<!---LeetCode Topics End-->
+# 📘 LeetCode Problem Solving Journey
+
+### 🧠 Solved 400+ LeetCode Problems | 🚀 Mastering DSA One Problem at a Time
+
+Welcome to my repository where I’ve organized 400+ LeetCode solutions, written with clean and efficient code. Each problem is solved with an emphasis on understanding **core algorithms**, **problem patterns**, and **optimized approaches**.
+
+> 🏁 Goal: To Reach Knight on LeetCode by mastering patterns, not just problems.
+
+---
+
+## 🔥 Highlights
+
+- ✅ 400+ curated solutions with clean code  
+- ⚙️ Languages used: C++  
+- 🗂️ Regularly updated as I solve more  
+
+---
+
+## 📂 Problem Included From Topics
+
+| Topic                |
+|----------------------|
+| 🪟 Sliding Window     | 
+| 🔁 Two Pointers       |
+| 🔣 Hashing / Maps     |
+| 🧮 Binary Search      | 
+| 📐 Prefix Sum         | 
+| 📊 Sorting            | 
+| 🔁 Recursion + Backtracking |
+| 🧵 Dynamic Programming |
+| 🌲 Trees & Binary Trees | 
+| 📈 Graphs & BFS/DFS   | 
+| 🧩 Stack / Monotonic Stack | 
+| 🥇 Greedy             |
+| 🧮 Bit Manipulation   |
+| ⛓️ Union Find         | 
+| 💡 Miscellaneous      | 
+
+---
+
