@@ -4,18 +4,21 @@ public:
         deque<int>dq;
         int n=nums.size();
         vector<int>ans;
-        for(int i=0;i<n;i++)
+        for(int r=0;r<n;r++)
         {
-            if(!dq.empty() && dq.front()<=i-k)
+            if(!dq.empty() && dq.front()<=r-k)
             {
                 dq.pop_front();
             }
-            while(!dq.empty() && nums[dq.back()]<=nums[i])
+
+            while(!dq.empty() && nums[dq.back()]<=nums[r])
             {
                 dq.pop_back();
             }
-            dq.push_back(i);
-            if(i>=k-1)
+
+            dq.push_back(r);
+
+            if(r>=k-1)
             {
                 ans.push_back(nums[dq.front()]);
             }
