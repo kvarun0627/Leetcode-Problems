@@ -64,17 +64,57 @@ public:
     int largestRectangleArea(vector<int>& heights) {
         //the brute force is simple
         //for every i the area that can be obtained will be arr[i]*(nse[i]-pse[i]-1);
+
+        //T.C will be around O(5N) and S.C will be around O(4N)
+
+        // int n=heights.size();
+        // vector<int>nse=NextSmallestElement(heights,n);
+        // vector<int>pse=PreviousSmallerElement(heights,n);
+
+        // int maxi=0;
+
+        // for(int i=0;i<n;i++)
+        // {
+        //     maxi=max(maxi,heights[i]*(nse[i]-pse[i]-1));
+        // }
+
+        // return maxi;
+
+        //optimal
+        //in the most optimal approach we will try to do it in a single iteration
+
         int n=heights.size();
-        vector<int>nse=NextSmallestElement(heights,n);
-        vector<int>pse=PreviousSmallerElement(heights,n);
+        stack<int>pse;
 
         int maxi=0;
-
         for(int i=0;i<n;i++)
         {
-            maxi=max(maxi,heights[i]*(nse[i]-pse[i]-1));
+            if(pse.empty() || heights[pse.top()]<=heights[i])
+            {
+                pse.push(i);
+            }
+            else
+            {
+                while(!pse.empty() && heights[pse.top()]>heights[i])
+                {
+                    int h=heights[pse.top()];
+                    pse.pop();
+                    int pse_idx=pse.empty()?-1:pse.top();
+                    int nse_idx=i;
+                    maxi=max(maxi,h*(nse_idx-pse_idx-1));
+                }
+                pse.push(i);
+            }
         }
 
+        while(!pse.empty())
+        {
+            int nse_idx=n;
+            int h=heights[pse.top()];
+            pse.pop();
+            int pse_idx=pse.empty()?-1:pse.top();
+            maxi=max(maxi,h*(nse_idx-pse_idx-1));
+        }
         return maxi;
 
     }
