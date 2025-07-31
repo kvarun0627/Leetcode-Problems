@@ -1,34 +1,42 @@
 class Solution {
 public:
-    int reccur(int left,int right,vector<int>&arr,vector<vector<int>>&DP)
+    int memo(int left,int right,vector<int> &arr,vector<vector<int>> &DP)
     {
-        if(left+1==right)
-        {
-            return 0;
-        }
         if(DP[left][right]!=-1)
         {
             return DP[left][right];
         }
         int ans=0;
-        for(int i=left+1;i<right;i++)
+        for(int idx=left+1;idx<right;idx++)
         {
-            int points=arr[i]*arr[left]*arr[right];
-            points+=(reccur(left,i,arr,DP)+reccur(i,right,arr,DP));
-            ans=max(ans,points);
+            int partition=arr[idx]*arr[left]*arr[right]+memo(idx,right,arr,DP)+memo(left,idx,arr,DP);
+            ans=max(ans,partition);
         }
         return DP[left][right]=ans;
     }
     int maxCoins(vector<int>& nums) {
         int n=nums.size();
-        vector<int>arr(n+2);
-        arr[0]=arr[n+1]=1;
-        for(int i=1;i<=n;i++)
+        vector<int>arr(n+2,1);
+        for(int i=0;i<n;i++)
         {
-            arr[i]=nums[i-1];
+            arr[i+1]=nums[i];
         }
+
         vector<vector<int>>DP(n+2,vector<int>(n+2,-1));
-        
-        return reccur(0,n+1,arr,DP);
+        // for(int left=0;left<n+2;left++)
+        // {
+        //     for(int right=n+1;right>=0;right--)
+        //     {
+        //         int ans=0;
+        //         for(int idx=left+1;idx<right;idx++)
+        //         {
+        //             int partition=arr[idx]*arr[left]*arr[right]+DP[idx][right]+DP[left][idx];
+        //             ans=max(ans,partition);
+        //         }
+        //         DP[left][right]=ans;
+        //     }
+        // }
+        return memo(0,n+1,arr,DP);
+        return DP[0][n+1];
     }
 };
