@@ -41,3 +41,27 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## 🧠 LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vk272006?theme=dark&font=Baloo&ext=contest)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+<!---LeetCode Topics End-->
