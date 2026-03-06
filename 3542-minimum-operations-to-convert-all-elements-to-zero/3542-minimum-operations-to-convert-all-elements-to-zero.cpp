@@ -5,7 +5,7 @@ public:
         stack<int>st;
         int n=nums.size();
         int ans = 0;
-        set<int>cnt;
+
         for(int i=0;i<n;i++)
         {
             while(!st.empty() && nums[st.top()]>nums[i])
@@ -18,16 +18,18 @@ public:
             {
                 st.pop();
             }
-            
+
             st.push(i);
         }
 
         while(!st.empty())
         {
-            cnt.insert(nums[st.top()]);
+            if(nums[st.top()] != 0)
+            {
+                ans++;
+            }
             st.pop();
         }
-        ans += (cnt.size() - cnt.count(0));
 
         return ans;
     }
