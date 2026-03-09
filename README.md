@@ -47,6 +47,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -63,5 +65,10 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 <!---LeetCode Topics End-->
