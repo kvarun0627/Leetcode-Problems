@@ -49,6 +49,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | ------- | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -89,4 +90,16 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 <!---LeetCode Topics End-->
