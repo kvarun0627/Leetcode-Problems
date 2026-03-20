@@ -76,6 +76,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
+| [3871-count-commas-in-range-ii](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
