@@ -10,7 +10,6 @@ public:
             long long next = prev*1000;
             ans += commas*(next-prev);
             prev = next;
-            cout<<commas<<" "<<next<<" "<<ans<<endl;
             commas++;
         }
         ans += commas*(n-prev+1);
