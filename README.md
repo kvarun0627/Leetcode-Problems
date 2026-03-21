@@ -48,6 +48,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
@@ -73,6 +74,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +104,8 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 <!---LeetCode Topics End-->
