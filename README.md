@@ -52,6 +52,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
