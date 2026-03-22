@@ -31,21 +31,16 @@ public:
                 }
             }
         long long ans=0;
-
         for(int i=0;i<n;i++)
+        {
+            int l = pge[i];
+            int r = nge[i];
+
+            if(l!=-1 && r!=n+1)
             {
-                if(nge[i]!=n+1 && nge[i]-i+1>=3)
-                {
-                    ans++;
-                }
+                ans++;
             }
-        for(int i=n-1;i>=0;i--)
-            {
-                if(pge[i]!=-1 && i-pge[i]+1>=3)
-                {
-                    ans++;
-                }
-            }
+        }
 
         return ans;
     }
