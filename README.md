@@ -56,10 +56,12 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | ------- | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +140,8 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 <!---LeetCode Topics End-->
