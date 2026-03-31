@@ -1,25 +1,3 @@
-
-
-    /*
-Observations:
-
-- For all k such that k divides n:
-    1. Divide array into chunks of size k
-    2. Each chunk must be rotated sorted:
-        -> At most 1 inversion
-    3. Maintain (min, max) for each chunk
-    4. Ensure global ordering:
-        max[i] <= min[i+1]
-
-TC:
-- Divisors: O(sqrt(n))
-- Each check: O(n)
-=> Overall: O(n * sqrt(n))
-
-SC:
-- O(n/k) for storing chunk min/max
-*/
-
 class Solution {
 public:
 
@@ -27,7 +5,7 @@ public:
         int n = nums.size();
         int chunks = n / k;
 
-        vector<pair<int, int>> minMax(chunks);
+        int prevMax = -1;
 
         for (int i = 0; i < chunks; i++) {
             int start = i * k;
@@ -48,16 +26,12 @@ public:
 
             if (cnt > 1) return false; // not rotated sorted
 
-            minMax[i] = {mini, maxi};
-        }
-
-        // global ordering check
-        for (int i = 0; i < chunks - 1; i++) {
-            if (minMax[i].second > minMax[i + 1].first) {
+            if(mini < prevMax)
+            {
                 return false;
             }
+            prevMax = maxi;
         }
-
         return true;
     }
     
