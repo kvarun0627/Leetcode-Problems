@@ -47,6 +47,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0813-largest-sum-of-averages](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
@@ -91,6 +92,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0813-largest-sum-of-averages](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -102,6 +104,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0813-largest-sum-of-averages](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
 ## Memoization
