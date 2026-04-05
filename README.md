@@ -54,6 +54,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
@@ -157,4 +158,8 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
 <!---LeetCode Topics End-->
