@@ -161,5 +161,22 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 <!---LeetCode Topics End-->
