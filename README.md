@@ -51,6 +51,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -132,6 +133,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Linked List
@@ -153,14 +155,17 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3275-k-th-nearest-obstacle-queries/) | Medium |
 ## Depth-First Search
