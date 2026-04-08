@@ -98,6 +98,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [1856-maximum-subarray-min-product](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3864-minimum-cost-to-partition-a-binary-string/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +185,12 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3123-find-edges-in-shortest-paths](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3864-minimum-cost-to-partition-a-binary-string/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3864-minimum-cost-to-partition-a-binary-string/) | Hard |
 <!---LeetCode Topics End-->
