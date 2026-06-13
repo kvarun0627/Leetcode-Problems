@@ -61,6 +61,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -162,6 +163,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | ------- | ------- |
 | [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3951-minimum-energy-to-maintain-brightness/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
