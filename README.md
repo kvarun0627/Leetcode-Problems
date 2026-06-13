@@ -61,6 +61,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [3676-count-bowl-subarrays](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3864-minimum-cost-to-partition-a-binary-string/) | Hard |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | [0813-largest-sum-of-averages](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/kvarun0627/Leetcode-Problems/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +197,16 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3864-minimum-cost-to-partition-a-binary-string/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3956-maximum-sum-of-m-non-overlapping-subarrays-i/) | Hard |
 <!---LeetCode Topics End-->
