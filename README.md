@@ -169,6 +169,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 | ------- | ------- |
 | [2679-sum-in-a-matrix](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3864-minimum-cost-to-partition-a-binary-string/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
