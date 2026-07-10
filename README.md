@@ -105,6 +105,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [3850-count-sequences-to-k](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3850-count-sequences-to-k/) | Hard |
 | [3871-count-commas-in-range-ii](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Dynamic Programming
@@ -129,6 +130,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/kvarun0627/Leetcode-Problems/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Enumeration
@@ -144,6 +146,7 @@ Welcome to my repository where I’ve organized 400+ LeetCode solutions, written
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kvarun0627/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/kvarun0627/Leetcode-Problems/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
